@@ -14,5 +14,6 @@
 }
 
 .rodape {
-    text-align: center;
+    text-align: bottom center;
+    color: rgb(255, 255, 255);
 }
