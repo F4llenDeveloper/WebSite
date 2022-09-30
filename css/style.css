@@ -1,8 +1,8 @@
-#logo {
+.logo {
     border-radius: 50%;
     width: 200;
 }
 
-#background {
+.background {
     background-color: #111;
 }
